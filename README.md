@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <h1 align="center">Hola...👋, I'm Vaishnavi Kushwaha</h1>
-<h3 align="center">💻 Passionate Developer | 🌱 Lifelong Learner | </h3>
+<h3 align="center">💻 Passionate Developer </h3>
 
 ---
 
@@ -23,9 +23,9 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/vaishnavikushwaha" target="_blank">
+  <!-- <a href="https://github.com/vaishnavikushwaha" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -42,15 +42,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,java" height="60" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaishnavikushwaha&show_icons=true&theme=tokyonight" alt="Vaishnavi's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavikushwaha&layout=compact&theme=tokyonight" alt="Top Languages" height="160" />
 </p>
 
 ---
