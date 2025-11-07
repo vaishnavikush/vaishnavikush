@@ -6,11 +6,11 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working on *Data Structures and Algorithms*
-- 🌱 Learning *Java, **Spring Boot, and **Backend Development*
-- 💬 Ask me about *Core Java, OOPs Concepts, or REST APIs*
-- 📫 Reach me at: *vaishnavikushwaha53@gmail.com*
-- ⚡ Fun fact: I solve puzzles on LinkedIn to feel like a genius 🚀
+- 🔭 I’m currently working on *Data Structures and Algorithms*  
+- 🌱 Learning *Java*, **Spring Boot**, and **Backend Development**  
+- 💬 Ask me about *Core Java, OOPs Concepts,* or *REST APIs*  
+- 📫 Reach me at: **vaishnavikushwaha53@gmail.com**  
+- ⚡ Fun fact: I solve puzzles on LinkedIn to feel like a genius 🚀  
 
 ---
 
@@ -30,22 +30,13 @@
 
 ---
 
-### 🗃 Databases Hands-on
+### 🧰 Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgresql" height="60" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,postgresql" height="60" />
 </p>
 
 ---
-
-### 💻 Programming Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java" height="60" />
-</p>
-
----
-
 
 ⭐ *Thanks for visiting my profile!*  
-Let’s connect and grow together 🌸
+Let’s connect and build something amazing together 🚀
